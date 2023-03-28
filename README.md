@@ -14,7 +14,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](aj.png "Desktop Demo")
+![Portfolio Desktop Demo](ajj.png "Desktop Demo")
 
 
 ### Prerequisites
