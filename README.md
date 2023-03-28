@@ -22,7 +22,7 @@
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-* XAMPP Control Pannel Must be Installed 
+* [XAMPP](https://www.apachefriends.org/download.html "Download XAMPP") Control Pannel Must be Installed 
 
 ### Run Locally
 
